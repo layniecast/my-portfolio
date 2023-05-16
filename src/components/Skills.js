@@ -12,7 +12,7 @@ function Skills() {
             Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            Below yo will find my skills and types of technologies I enjoy
+            Below you will find my skills and types of technologies I enjoy
             learning about.
           </p>
         </div>
